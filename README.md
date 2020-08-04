@@ -48,7 +48,7 @@ In this tab user may sort links by date or by status. User may go to ModuleB by 
 ## Authors
 
 * *Ivan Zolotaryov* - 3olplay@gmail.com
-* *Andrii Fedorko* - andriy.fedorko01@gmail.com
+* *Andrii Fedorko* - andrii.fedorko01@gmail.com
 * *Volodymyr Panasenko* - panvovandrik@gmail.com
 * *Andrii Serbenyuk* - andriy.serb1@gmail.com
 * *Danil Miniailo* - daniel_changer@yahoo.com
